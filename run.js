@@ -3,12 +3,12 @@ const coffees = [
   { name: "Chess Club", image: "Chess.jpg" },
   { name: "Computer Club", image: "Computer.jpg" },
   { name: "Soccer Club", image: "Soccer.jpg" },
-  { name: "Rchitecto", image: "images/coffee4.jpg" },
-  { name: " Beatae", image: "images/coffee5.jpg" },
-  { name: " Vitae", image: "images/coffee6.jpg" },
-  { name: "Inventore", image: "images/coffee7.jpg" },
-  { name: "Veritatis", image: "images/coffee8.jpg" },
-  { name: "Accusantium", image: "images/coffee9.jpg" },
+  { name: "Camping Club", image: "Camping.jpg" },
+  { name: "Book Club", image: "Books.jpg" },
+  { name: "Chemistry Club", image: "Chemistry.jpg" },
+  { name: "Art Club", image: "Art.jpg" },
+  { name: "Foreign Language Club", image: "Language.png" },
+  { name: "Drama Club", image: "Drama.jpg" },
 ]
 console.log(container);
 function showCoffees () {
